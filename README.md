@@ -1,2 +1,3 @@
 # stackoverflow-python-questions
-![GitHub Logo](/top_terms_topic.png)
+![Number of question associations](/tag_count.png)
+![What are the top words for each topic?](/top_terms_topic.png)
